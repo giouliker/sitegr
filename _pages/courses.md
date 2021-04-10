@@ -8,7 +8,8 @@ permalink: "/courses/"
 
 # Εισαγωγή
 
-## ** κειμενο**
+## **κειμενο**
+{% include intro.html %}
 
 ## κειμενο
 
