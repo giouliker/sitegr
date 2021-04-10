@@ -5,7 +5,15 @@ permalink: "/courses/"
 ---
 
 {% include toc title = "ΓΕΝΙΚΕΣ ΠΛΗΡΟΦΟΡΙΕΣ" icon = "graduation-cap" %}
-# **Εισαγωγή**
+
+# Εισαγωγή
+
+## ** κειμενο**
+
+## κειμενο
+
+{% include collection-sort.html i = 1 l = 'courses' c_type = "M" %}
+
 
 {% include toc title = "ΜΑΘΗΜΑΤΑ" icon = "graduation-cap" %}
 
