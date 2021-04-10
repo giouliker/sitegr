@@ -4,6 +4,9 @@ title: "Μαθήματα"
 permalink: "/courses/"
 ---
 
+{% include toc title = "ΓΕΝΙΚΕΣ ΠΛΗΡΟΦΟΡΙΕΣ" icon = "graduation-cap" %}
+# **Εισαγωγή**
+
 {% include toc title = "ΜΑΘΗΜΑΤΑ" icon = "graduation-cap" %}
 
 # ΠΡΟΠΤΥΧΙΑΚΟ
